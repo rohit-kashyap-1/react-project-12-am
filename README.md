@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Students can download this project and try to run this app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
