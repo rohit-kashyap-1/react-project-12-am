@@ -2,12 +2,12 @@
 ## Follow this:-
 ### Change the branch from main to master to see the project files
 
-### 1.
+### 1. Goto the branches
 ![image](https://github.com/rohit-kashyap-1/react-project-12-am/assets/108992334/6bcf5dad-3afb-4aa1-8e69-756c2c0b5ae6)
 
-### 2.
+### 2. Select the master branch 
 ![image](https://github.com/rohit-kashyap-1/react-project-12-am/assets/108992334/471a16cb-b1c9-4373-8c96-71f86068cb04)
 
-### 3.
+### 3. You will see all the updated project files here....
 ![image](https://github.com/rohit-kashyap-1/react-project-12-am/assets/108992334/6a6e518a-9533-40ba-99e2-5d2cd68c0e38)
 
